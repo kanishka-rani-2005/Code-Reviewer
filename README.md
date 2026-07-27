@@ -2,8 +2,8 @@
 
 An AI-powered Code Review Assistant that analyzes source code, identifies potential issues, and provides suggestions for improving code quality, readability, and best practices.
 
-## Live 
-![Link]https://code-reviewer-lemon-delta.vercel.app/
+## Live Demo
+https://code-reviewer-lemon-delta.vercel.app/
 
 ##  Features
 
